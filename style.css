@@ -1,0 +1,17 @@
+body{
+	background-color: skyblue;
+}
+.dopomoshit{
+	color: white;
+	position: relative;
+	padding-top: 200px;
+	padding-left: 260px;
+
+}
+img{
+	width: 700px;
+	height: 500px;
+	position: absolute;
+
+
+}
